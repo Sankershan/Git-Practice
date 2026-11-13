@@ -1,1 +1,1 @@
-Application Name: Camera Health
+Application Name: Device Health
