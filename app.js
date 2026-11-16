@@ -1,1 +1,1 @@
-console.log('Reporting feature ready');
+console.log("Application Started");
