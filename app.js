@@ -1,1 +1,1 @@
-console.log('Login feature ready');
+console.log("Application Started");
